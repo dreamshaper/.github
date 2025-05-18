@@ -1,5 +1,3 @@
-<link href="styles.css" rel="stylesheet"></link>
-
 <p align="center">
     <a href="https://dreamshaper.com">
     <img width="612" alt="dreamshaper" src="https://dreamshaper.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.9ab1d39f.png&w=3840&q=100">
@@ -19,5 +17,5 @@
   ·
   <a href="https://www.linkedin.com/company/dreamshaper">Linkedin</a>
   ·
-  <a href="https://dreamshaper.com/en/contact">Contact us</a>
+  <a href="https://dreamshaper.com/en/contact">Contact</a>
 </p>
